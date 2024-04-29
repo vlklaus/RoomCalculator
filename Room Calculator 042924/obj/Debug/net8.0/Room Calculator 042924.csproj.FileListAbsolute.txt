@@ -1,0 +1,14 @@
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\bin\Debug\net8.0\Room Calculator 042924.exe
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\bin\Debug\net8.0\Room Calculator 042924.deps.json
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\bin\Debug\net8.0\Room Calculator 042924.runtimeconfig.json
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\bin\Debug\net8.0\Room Calculator 042924.dll
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\bin\Debug\net8.0\Room Calculator 042924.pdb
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj\Debug\net8.0\Room Calculator 042924.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj\Debug\net8.0\Room Calculator 042924.AssemblyInfoInputs.cache
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj\Debug\net8.0\Room Calculator 042924.AssemblyInfo.cs
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj\Debug\net8.0\Room Calculator 042924.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj\Debug\net8.0\Room Calculator 042924.dll
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj\Debug\net8.0\refint\Room Calculator 042924.dll
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj\Debug\net8.0\Room Calculator 042924.pdb
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj\Debug\net8.0\Room Calculator 042924.genruntimeconfig.cache
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj\Debug\net8.0\ref\Room Calculator 042924.dll
