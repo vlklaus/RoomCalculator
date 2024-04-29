@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Room Calculator 042924")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee466469f9fb36681625d1a2e550ee93418c259f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Room Calculator 042924")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Room Calculator 042924")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

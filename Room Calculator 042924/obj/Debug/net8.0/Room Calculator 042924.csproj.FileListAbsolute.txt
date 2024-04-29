@@ -12,3 +12,4 @@ C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj
 C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj\Debug\net8.0\Room Calculator 042924.pdb
 C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj\Debug\net8.0\Room Calculator 042924.genruntimeconfig.cache
 C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj\Debug\net8.0\ref\Room Calculator 042924.dll
+C:\Users\Victoria\source\repos\Room Calculator 042924\Room Calculator 042924\obj\Debug\net8.0\Room Calculator 042924.sourcelink.json

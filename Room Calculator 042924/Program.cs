@@ -11,13 +11,13 @@ public class Program
 
         Console.WriteLine("Welcome to Grand Circus' Room Detail Generator!");
         
-        Console.WriteLine("Enter Length: ");
+        Console.Write("Enter Length: ");
         double length = double.Parse(Console.ReadLine());
        
-        Console.WriteLine("Enter Width: ");
+        Console.Write("Enter Width: ");
         double width = double.Parse(Console.ReadLine());
 
-        Console.WriteLine("Enter Height: " );
+        Console.Write("Enter Height: " );
         double height = double.Parse(Console.ReadLine());
 
         double perimeter = 2 * length + 2 * width;
